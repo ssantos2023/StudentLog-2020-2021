@@ -140,7 +140,7 @@ Note: You will need to change `jcollard` to be the correct name for your branch.
 Each time you create an entry, you should add that entry to your branch, commit
 it, and push it to GitHub.
 
-In addition to committing each tim you create an entry, you *should* make
+In addition to committing each time you create an entry, you *should* make
 intermittent commits while working on other files within this repository.
 
 ### The start-entry.sh Script
